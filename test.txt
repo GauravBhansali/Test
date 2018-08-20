@@ -1,2 +1,2 @@
 working with Git.
-Doing changes.
+Editing.
